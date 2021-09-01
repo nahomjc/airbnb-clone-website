@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="http://shlokatech.in/img/me.png" alt="Project logo"></a>
+ 
 </p>
 <h3 align="center">react-js-airbnb-clone</h3>
 
